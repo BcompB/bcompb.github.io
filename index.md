@@ -55,6 +55,14 @@ construction. The main idea of Elfin is to use repeat proteins as rigid
 construction modules (much like how Lego works) and build 3D shapes that are as
 close to the user's input description as possible.
 
+## Enlighten (van der Kamp Group)
+
+Available [here](https://github.com/marcvanderkamp/enlighten/).
+
+Protocols and tools to run (automated) atomistic simulations of enzyme-ligand
+systems. For the PyMOL plugin, see
+[here](https://github.com/marcvanderkamp/enlighten/blob/master/Pymol/README.md).
+
 ## ISAMBARD (Woolfson Group)
 
 Available [here](https://github.com/isambard-uob/isambard).
