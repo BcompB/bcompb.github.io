@@ -7,10 +7,23 @@ members across several Schools and Faculties, primarily in the faculties of
 Science and Life Sciences. We meet up regularly to discuss topics of interest to
 the group and host seminars in computational biochemistry.
 
-# Computational Resources by Members of BcompB
+# Computational Resources Created by Members of BcompB
 
 This section contains a list of computational resources created by members of
 BcompB. Check out the links for more information.
+
+## BioSimSpace (Woods Group)
+
+Available [here](https://github.com/michellab/BioSimSpace).
+
+BioSimSpace is an interoperable framework for biomolecular simulation. With it
+you can:
+
+* Write robust and portable biomolecular workflow components that work on
+  different hardware, with different software packages, and that can be run in
+  different ways, e.g. command-line, [Jupyter](http://jupyter.org).
+* Interact with running molecular simulation processes in real-time within a
+  Jupyter notebook.
 
 ## BUDE (Sessions Group)
 
@@ -23,12 +36,15 @@ OpenCL that uses GPU acceleration to perform:
 2. Ligand binding site identification on protein surfaces
 3. Protein-protein docking in real space
 
-Interaction energies are calculated using an empirical free energy forcefield
-developed here. These energies approximate binding free energies in units of
-kJ/mol and are used both for pose and affinity prediction. The forcefield
-comprises very soft-core potentials to accommodate geometrical approximations
-inherent in the docking approach and is designed to give a better balance
-between energetic interactions and shape matching than more traditional methods.
+## CCBuilder 2 (Woolfson Group)
+
+Available [here](http://coiledcoils.chm.bris.ac.uk/ccbuilder2/builder)
+([source](https://github.com/woolfson-group/ccbuilder2)).
+
+CCBuilder 2 is an interactive web app for atomistic modelling of coiled coils
+and collagens. It has a simple user interface for creating and evaluating
+models that can be used in simulation, for solving structural data or for
+aiding protein design.
 
 ## Elfin (Parmeggiani Group)
 
